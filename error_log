@@ -1,0 +1,18 @@
+[02-Sep-2013 09:16:53 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'triangon_user3'@'localhost' (using password: YES) in /home3/triangon/public_html/phonegap-mysql/conex.php on line 9
+[02-Sep-2013 09:17:46 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'triangon_user3'@'localhost' (using password: YES) in /home3/triangon/public_html/phonegap-mysql/conex.php on line 9
+[02-Sep-2013 09:18:32 America/Denver] PHP Warning:  mysql_connect(): Unknown MySQL server host 'http' (0) in /home3/triangon/public_html/phonegap-mysql/conex.php on line 9
+[02-Sep-2013 09:19:48 America/Denver] PHP Warning:  mysql_connect(): Host 'box887.bluehost.com' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' in /home3/triangon/public_html/phonegap-mysql/conex.php on line 9
+[02-Sep-2013 09:21:01 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'triangon_user3'@'localhost' (using password: YES) in /home3/triangon/public_html/phonegap-mysql/conex.php on line 9
+[02-Sep-2013 09:22:27 America/Denver] PHP Notice:  Undefined index: jsoncallback in /home3/triangon/public_html/phonegap-mysql/conex.php on line 23
+[02-Sep-2013 09:39:20 America/Denver] PHP Notice:  Undefined index: jsoncallback in /home3/triangon/public_html/phonegap-mysql/conex.php on line 23
+[02-Sep-2013 10:37:28 America/Denver] PHP Notice:  Undefined index: jsoncallback in /home3/triangon/public_html/phonegap-mysql/conex.php on line 23
+[02-Sep-2013 10:41:31 America/Denver] PHP Notice:  Undefined index: jsoncallback in /home3/triangon/public_html/phonegap-mysql/conex.php on line 23
+[02-Sep-2013 11:30:43 America/Denver] PHP Notice:  Undefined index: jsoncallback in /home3/triangon/public_html/phonegap-mysql/conex.php on line 22
+[02-Sep-2013 11:34:37 America/Denver] PHP Notice:  Undefined index: jsoncallback in /home3/triangon/public_html/phonegap-mysql/conex.php on line 22
+[02-Sep-2013 14:14:04 America/Denver] PHP Notice:  Undefined index: jsoncallback in /home3/triangon/public_html/phonegap-mysql/conex1.php on line 22
+[03-Sep-2013 07:33:18 America/Denver] PHP Notice:  Undefined index: jsoncallback in /home3/triangon/public_html/phonegap-mysql/conex1.php on line 22
+[03-Sep-2013 07:33:35 America/Denver] PHP Notice:  Undefined index: jsoncallback in /home3/triangon/public_html/phonegap-mysql/conex1.php on line 22
+[03-Sep-2013 07:34:07 America/Denver] PHP Notice:  Undefined index: jsoncallback in /home3/triangon/public_html/phonegap-mysql/conex1.php on line 22
+[03-Sep-2013 07:36:12 America/Denver] PHP Notice:  Undefined index: jsoncallback in /home3/triangon/public_html/phonegap-mysql/conex1.php on line 22
+[03-Sep-2013 07:37:24 America/Denver] PHP Notice:  Undefined index: jsoncallback in /home3/triangon/public_html/phonegap-mysql/conex1.php on line 22
+[03-Sep-2013 07:37:29 America/Denver] PHP Notice:  Undefined index: jsoncallback in /home3/triangon/public_html/phonegap-mysql/conex1.php on line 22
